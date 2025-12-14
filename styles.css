@@ -4,7 +4,10 @@
   padding: 0;
   font-family: Inter,
   sans-serif;
-  background-color: #f5f8ff;
+  
+}
+body{
+    background-color: #f5f8ff;
 }
 .container {
   max-width: 1400px;
@@ -23,4 +26,11 @@ button{
     background-color: #e95a08;
     color: white;
     padding: 0.7em 5em;
+}
+p{
+    color: gray;
+}
+
+.list-disc {
+    color: gray;
 }
