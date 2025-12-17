@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  /* margin: 0; */
+  /* padding: 0; */
   font-family: Inter,
   sans-serif;
   
@@ -25,7 +25,7 @@ body{
 button{
     background-color: #e95a08;
     color: white;
-    padding: 0.7em 5em;
+    /* padding: 0.7em 5em; */
 }
 p{
     color: gray;
@@ -34,24 +34,21 @@ p{
 .list-disc {
     color: gray;
 }
-#mx{
-    margin-top: 5em;
-    margin-bottom: 5em;
-}
+
 
 .absolute{
     top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .btn-ld{
     color: white;
 }
-.join-item{
+/* .join-item{
     padding: .5em 4em;
     border-radius: 0.2em;
-}
+} */
 .hx{
     margin: .7em;
 }
