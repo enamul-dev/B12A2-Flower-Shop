@@ -34,3 +34,38 @@ p{
 .list-disc {
     color: gray;
 }
+#mx{
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.absolute{
+    top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btn-ld{
+    color: white;
+}
+.join-item{
+    padding: .5em 4em;
+    border-radius: 0.2em;
+}
+.hx{
+    margin: .7em;
+}
+footer{
+    margin: 5em;
+}
+
+.footer-logo{
+    margin-bottom: 1em;
+}
+ul li{
+    color: gray;
+}
+
+.fa-brands{
+    width: 5em;
+}
